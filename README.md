@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Review Sentiment Analysis - Deployment
 
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.10](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.10](https://img.shields.io/badge/Python-3.10-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
 
 Welcome to the **Restaurant Review Sentiment Analysis** project repository. This repository encompasses all the necessary components to deploy a **Machine Learning Web Application** utilizing the **Flask** framework.
 
